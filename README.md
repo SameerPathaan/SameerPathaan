@@ -15,14 +15,14 @@ Exporing Modern Data Stack (dbt, Airbyte, Databricks)
 Azure Cloud, AWS & GCP
 Apache Spark 
 
-📫 Here's how you can reach me: https://www.linkedin.com/in/psameer-khan
+📫 Here's how you can reach me: [Linkedin](https://www.linkedin.com/in/psameer-khan/)
 
 I keep building projects, here are some:
 
-YouTube Analysis End-To-End Data Engineering Project using Python and AWS, Twitter Data Pipeline using Airflow, Stock Market Real-Time Data Processing Using Kafka
+Spotify ETL Pipeline using Python and AWS, Twitter Data Pipeline using Airflow, Data warehouse implementation and Query optimization
 
 📝 Here are my most recent Certifications and Courses:
 
-AWS Certified Solutions Architect – Beginner, Tableau Desktop Specialist , Data Science Professional Certificate
+PowerCenter Data Integration 10 Developer, AWS Certified Solutions Architect – Beginner, Tableau Desktop Specialist , Data Science Professional Certificate, Python for Data Engineering by DataCamp
 
 If you want to talk to me or want to discuess something then feel free to ping on LinkedIn.
