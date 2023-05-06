@@ -6,7 +6,7 @@ I’m currently a graduate student at University of Houston Majoring in Engineer
 
 I have experience of 3 years in Data Integration Domain working as Data Engineer - ETL Operations That means...
 
-I'm always open for Data Engineer roles both contract and Full-Time opportunities.
+I'm always open for Data Engineer roles both contract and Full-Time opportunities (Remote & On-Site).
 
 🤘 You can find some data engineering projects that i have built on my profile
 
