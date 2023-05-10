@@ -19,7 +19,7 @@ Apache Spark
 
 I keep building projects, here are some:
 
-Spotify ETL Pipeline using Python and AWS, Twitter Data Pipeline using Airflow, Data warehouse implementation and Query optimization
+[Spotify ETL Pipeline using Python and AWS](https://github.com/SameerPathaan/Spotify-ETL-Pipeline-using-AWS), [Twitter Data Pipeline using Airflow](https://github.com/SameerPathaan/Twitter-data-pipeline-using-airflow), [Uber Analytics Pipeline using GCP](https://github.com/SameerPathaan/Uber-ETL-pipeline-using-GCP)
 
 📝 Here are my most recent Certifications and Courses:
 
