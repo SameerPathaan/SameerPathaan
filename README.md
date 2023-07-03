@@ -2,7 +2,7 @@
 
 # Thanks for stopping by! Here a little about who iam.
 
-I’m currently a graduate student at University of Houston Majoring in Engineering Data Science. 
+I’m a graduate student at University of Houston Majoring in Engineering Data Science. 
 
 I have experience of 3.5 years in Data Integration Domain working as Data Engineer - ETL Operations That means...
 
